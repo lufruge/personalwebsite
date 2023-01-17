@@ -33,13 +33,13 @@ img {
 }
 
 a: link {
-  color: blue
+  color: yellow
 }
 a: visited{
  color: purple 
 }
 a:hover{
-  color: yellow
+  color: white
 }
 
 footer {
