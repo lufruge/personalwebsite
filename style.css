@@ -33,13 +33,13 @@ img {
 }
 
 a: link {
-  color: yellow
+  color: #0a4e43;
 }
 a: visited{
- color: purple 
+ color: #EF40FF;  
 }
 a:hover{
-  color: white
+  color: #39FF14;
 }
 
 footer {
